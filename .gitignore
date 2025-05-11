@@ -5,6 +5,7 @@ example/venv
 __pycache__/
 *.py[cod]
 *$py.class
+test_prompt.txt
 
 # C extensions
 *.so

@@ -138,4 +138,4 @@ def skip_if_logging_gap(details: str):
             )
             raise SkipTest(SkipReason.LOGGING_GAP.format_message(details))
         return wrapper
-    return decorator 
+    return decorator
